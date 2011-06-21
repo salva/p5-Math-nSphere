@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Math-nSphere.t
+lib/Math/nSphere.pm
